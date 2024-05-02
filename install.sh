@@ -6,3 +6,4 @@ chmod +x requirement.sh
 
 echo "requirements installed successfully."
 echo "Now Starting..."
+python3 main.py
